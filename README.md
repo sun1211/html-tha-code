@@ -3,7 +3,7 @@
 | Sl.No|  Questions        |
 |------|------------------ |
 | 01.  |[Border ](#Border )|
-| 02.  |[Div giống pre ](#Div-giống-pre)|
+| 02.  |[Div giống pre ](#q-Div-giống-pre)|
 
 ## 1. ***Border***
 ```
