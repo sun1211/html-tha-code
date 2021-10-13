@@ -12,6 +12,8 @@
 | 08.  |[Audio thanh dài k download ](#Audio-thanh-dài-k-download)|
 | 09.  |[Text 1 bên câu hỏi 1 bên ](#Text-1-bên-câu-hỏi-1-bên)|
 | 10.  |[Inline dropdown ](#Inline-dropdown)|
+| 11.  |[Multiple choice ](#Multiple-choice)|
+| 12.  |[Bài reading text có scroll bar dọc ](#Bài-reading-text-có-scroll-bar-dọc)|
 
 ## <a id="Border"></a>***1. Border***
 ```
@@ -52,7 +54,7 @@
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## <a id="Bulleth"></a>***5. Bullet***
+## <a id="Bullet"></a>***5. Bullet***
 ```
 <ul style="list-style-type:circle">
     <li>Coffee</li>
@@ -180,6 +182,61 @@
         </optioninput>
     </optionresponse>
 </inline_dropdown>
+```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## <a id="Multiple-choice"></a>***11. Multiple choice***
+**Nằm trong thẻ problem**
+
+```
+<multiplechoiceresponse>
+    <choicegroup type="MultipleChoice"> 
+        <choice correct="true"><b>a.</b> Beaumaris: a castle of contrasts </choice>
+        <choice correct="false"><b>b.</b> Beaumaris: a typical medieval castle </choice>
+        <choice correct="false"><b>c.</b> Beaumaris: the oldest Welsh castle</choice>
+    </choicegroup>
+</multiplechoiceresponse>
+```
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## <a id="Bài-reading-text-có-scroll-bar-dọc"></a>***12. Bài reading text có scroll bar dọc***
+**Nằm trong thẻ problem**
+
+```
+<hr/>
+<div style="width: 97%; overflow-x: visible;">
+    <div style="height: 400px; display:flex;">
+        <div style="height: 100%; overflow-y: scroll; flex: 0 0 100%; padding-right: 15px; padding-left: 15px; ">
+            <center style="border:none;padding:0px;margin:0;font-size: 30px;">
+                <b>Freya Stark, explorer and writer</b>
+            </center>
+            <br />
+            <p>Freya Stark travelled to many areas of the Middle East, often alone. </p>
+            <p>
+                Freya Stark was an explorer who lived during a time when explorers were regarded as heroes. She travelled
+                to distant areas of the Middle East, where few Europeans – especially women-had travelled before. She
+                also travelled extensively in Turkey, Greece, Italy, Nepal and Afghanistan.
+            </p>
+            <p>
+                Stark was born in Paris in 1893. Although she had no formal education as a child, she moved about with
+                her artist parents and learned French, German and Italian. She entered London University in 1912, but at
+                the start of World War I, she joined the nurse corps and was sent to Italy. After the war, she returned
+                to London and attended the School of Oriental Studies. Her studies there led to extensive travel in the
+                Middle East, enabling her to eventually become fluent in Persian, Russian and Turkish. Stark became well
+                known as a traveller and explorer in the Middle East. She travelled to the Lebanon in 1927 at the age of
+                33 when she had saved enough money, and while there, she studied Arabic. In 1928, she travelled by
+                donkey to the Jebel Druze, a mountainous area in Syria.
+            </p>
+        </div>
+
+    </div>
+</div>
+<p/>
+<hr/>
 ```
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
