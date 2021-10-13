@@ -73,9 +73,9 @@
 </div>
 
 ## <a id="Dạng-text-input-chia-2-bên"></a>***6. Dạng text input chia 2 bên***
-<img src="assets/6.png" raw=true alt=""/>
-![Test Image 3](/assets/6.png)
-![Test Image 3](assets/6.png)
+<p align="center">
+  <img src="assets/6.png" alt="Node Architecture" width="auto" />
+</p>
 
 ```
 <div style="display: flex;width: 100%;border-bottom: 1px solid #eee;margin:10px 0px;">
