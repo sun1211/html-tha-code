@@ -3,7 +3,7 @@
 | Sl.No|  Questions        |
 |------|------------------ |
 | 01.  |[Border ](#Border )|
-| 02.  |[Div giống pre ](#q-Div-giống-pre)|
+| 02.  |[Div giống pre ](#Div-giống-pre)|
 
 ## 1. ***Border***
 ```
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-## 2. ***Div giống pre***
+## <a id="Div-giống-pre"></a>***2. Div giống pre***
 ```
 <div style="padding: 6px 10px; border: 1px solid #ccc; border-radius: 3px; background-color: #f9f9f9; font-size: .9em; line-height: 1.4;">
 ```
