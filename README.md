@@ -13,6 +13,7 @@
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
 </p>
+
 ```
 <style>
     .ol-number {
@@ -280,6 +281,7 @@
     </tr>
 </table>
 ```
+
 <div align="right">
     <b><a href="#Content">↥ back to top</a></b>
 </div>
@@ -288,6 +290,7 @@
 <p align="center">
 <img src="asset/Review.jpg" alt="" width="auto" />
 </p>
+
 ```
 <style>
     .ol-number {
@@ -469,14 +472,17 @@ Review</b> (50 mins)</h3>
     <tr>
 </table>
 ```
+
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
 ## <a id="Video"></a>***3. Video***
+
 <p align="center">
 <img src="asset/Video.jpg" alt="" width="auto" />
 </p>
+
 ```
 <style>
     .ol-number {
@@ -683,14 +689,17 @@ Review</b> (50 mins)</h3>
     <tr>
 </table>
 ```
+
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
 ## <a id="Preview"></a>***4. Preview***
+
 <p align="center">
 <img src="asset/Preview.jpg" alt="" width="auto" />
 </p>
+
 ```
 <style>
     .ol-number {margin-top: 11px !important;margin-bottom: 10px !important;margin-left: -1px !important; list-style-type: decimal!important;}
@@ -856,15 +865,18 @@ Review</b> (50 mins)</h3>
           </tr>
      </table>
 ```
+
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
 ## <a id="Language Focus"></a>***5. Language Focus***
+
 <p align="center">
 <img src="asset/Languagefocus.jpg" alt="" width="auto" />
 </p>
 ```
+
 <style>
     .ol-number {margin-top: 11px !important;margin-bottom: 10px !important;margin-left: -1px !important; list-style-type: decimal!important;}
     .ul-disc {margin-top: 11px !important;margin-bottom: 10px !important;margin-left: -1px !important; list-style-type: disc !important;}  
@@ -1055,14 +1067,17 @@ Review</b> (50 mins)</h3>
           </tr>
      </table>
 ```
+
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
 ## <a id="Reading"></a>***6. Reading***
+
 <p align="center">
 <img src="asset/Reading.jpg" alt="" width="auto" />
 </p>
+
 ```
 <style>
     .ol-number {margin-top: 11px !important;margin-bottom: 10px !important;margin-left: -1px !important; list-style-type: decimal!important;}
@@ -1330,6 +1345,7 @@ Review</b> (50 mins)</h3>
           </tr>  
      </table>
 ```
+
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
